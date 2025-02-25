@@ -9,7 +9,10 @@ python CutoffOptimization.py
 python MakeCovarianceMatrix.py
 ```
 ```bash
-julia GetOptimalPoints.jl
+julia GetOptimalPoints_SquaredLoss.jl
+```
+```bash
+julia GetOptimalPoints_KLDivergence.jl
 ```
 ```bash
 python BiasVarianceDecomposition.py
@@ -63,7 +66,10 @@ You can decide the following parameters:
 
 Run
 ```bash
-julia GetOptimalPoints.jl
+julia GetOptimalPoints_SquaredLoss.jl
+```
+```bash
+julia GetOptimalPoints_KLDivergence.jl
 ```
 then you can get optimal measurement points. 
 
