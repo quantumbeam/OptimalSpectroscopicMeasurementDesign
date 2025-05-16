@@ -1,4 +1,24 @@
-# Optimal Spectroscopic Measurement Design
+## Optimal spectroscopic measurement design: Bayesian framework for rational data acquisition
+Yusei Ito, Yasuo Takeichi, Hideitsu Hino and Kanta Ono
+
+Machine Learning: Science and Technology 6, 025037 (2025). https://doi.org/10.1088/2632-2153/add0f6
+
+## Citation
+```text
+@article{ito2025experimentaldesign,
+  year      = {2025},
+  title     = {Optimal spectroscopic measurement design: Bayesian framework for rational data acquisition},
+  author    = {Yusei Ito and 
+               Yasuo Takeichi and
+               Hideitsu Hino and
+               Kanta Ono},
+  journal   = {Machine Learning: Science and Technology}, 
+  doi       = {10.1088/2632-2153/add0f6}, 
+  volume    = {6},
+  number    = {2}, 
+  pages     = {025037}
+}
+```
 
 ## Reproduce the result of our paper
 Run the following command: 
